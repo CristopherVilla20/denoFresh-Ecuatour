@@ -1,0 +1,422 @@
+{
+  "rutas": [
+    {
+      "id": "1",
+      "categoria": "ciudad",
+      "nombre": "Ruta de las Luces",
+      "resenias": [
+        {
+          "id": "1a",
+          "calificacion": 4,
+          "resenia": "Explora la fascinante Ruta de las Luces en Guayaquil. Disfruta de la vida nocturna y los monumentos iluminados de la ciudad."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "1s",
+          "ciudad": "Guayaquil",
+          "nombre": "Monumentos Iluminados"
+        }
+      ],
+      "votos": "8"
+    },
+    {
+      "id": "2",
+      "categoria": "area",
+      "nombre": "Ruta de Aventuras en Baños",
+      "resenias": [
+        {
+          "id": "2a",
+          "calificacion": 5,
+          "resenia": "Baños es el paraíso de las aventuras en Ecuador. Esta ruta te llevará a emocionantes actividades al aire libre y hermosos paisajes."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "2s",
+          "ciudad": "Baños",
+          "nombre": "Puentes Colgantes"
+        },
+        {
+          "id": "3s",
+          "ciudad": "Baños",
+          "nombre": "Cascada Pailon del Diablo"
+        }
+      ],
+      "votos": "9"
+    },
+    {
+      "id": "3",
+      "categoria": "ciudad",
+      "nombre": "Ruta de los Miradores",
+      "resenias": [
+        {
+          "id": "3a",
+          "calificacion": 4,
+          "resenia": "Sorpréndete con las vistas panorámicas de Quito desde los famosos miradores de la ciudad. Una experiencia inolvidable."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "4s",
+          "ciudad": "Quito",
+          "nombre": "Mirador El Panecillo"
+        },
+        {
+          "id": "5s",
+          "ciudad": "Quito",
+          "nombre": "Mirador Guapulo"
+        }
+      ],
+      "votos": "7"
+    },
+    {
+      "id": "4",
+      "categoria": "bosque",
+      "nombre": "Ruta de Aves Exóticas",
+      "resenias": [
+        {
+          "id": "4a",
+          "calificacion": 3,
+          "resenia": "Embárcate en un viaje fascinante por el Bosque de las Aves Exóticas en Mindo. Observa especies únicas en su hábitat natural."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "6s",
+          "ciudad": "Mindo",
+          "nombre": "Bosque de las Aves"
+        }
+      ],
+      "votos": "5"
+    },
+    {
+      "id": "6",
+      "categoria": "bosque",
+      "nombre": "Ruta de los Volcanes",
+      "resenias": [
+        {
+          "id": "5a",
+          "calificacion": 4,
+          "resenia": "Explora la impresionante Ruta de los Volcanes en Ecuador. Camina por los senderos rodeados de volcanes activos y paisajes únicos."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "7s",
+          "ciudad": "Riobamba",
+          "nombre": "Volcán Chimborazo"
+        },
+        {
+          "id": "8s",
+          "ciudad": "Cotopaxi",
+          "nombre": "Parque Nacional Cotopaxi"
+        }
+      ],
+      "votos": "9"
+    },
+    {
+      "id": "7",
+      "categoria": "area",
+      "nombre": "Ruta de las Playas",
+      "resenias": [
+        {
+          "id": "6a",
+          "calificacion": 4,
+          "resenia": "Disfruta del sol y las olas en la Ruta de las Playas en la Costa de Ecuador. Un paraíso para los amantes de la playa."
+        },
+        {
+          "id": "7a",
+          "calificacion": 2,
+          "resenia": "Rueba"
+        }
+      ],
+      "sitios": [
+        {
+          "id": "9s",
+          "ciudad": "Manta",
+          "nombre": "Playa Murciélago"
+        },
+        {
+          "id": "10s",
+          "ciudad": "Salinas",
+          "nombre": "Playa de Salinas"
+        }
+      ],
+      "votos": "7"
+    },
+    {
+      "id": "8",
+      "categoria": "ciudad",
+      "nombre": "Ruta del Arte Urbano",
+      "resenias": [
+        {
+          "id": "8a",
+          "calificacion": 3,
+          "resenia": "Explora la creatividad y la cultura de la ciudad a través de la Ruta del Arte Urbano en Cuenca. Descubre murales impresionantes y expresiones artísticas únicas."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "11s",
+          "ciudad": "Cuenca",
+          "nombre": "Murales de Arte Urbano"
+        }
+      ],
+      "votos": "6"
+    },
+    {
+      "id": "9",
+      "categoria": "bosque",
+      "nombre": "Ruta de la Selva Amazónica",
+      "resenias": [
+        {
+          "id": "9a",
+          "calificacion": 4,
+          "resenia": "Adéntrate en la exuberante selva amazónica ecuatoriana con esta emocionante ruta. Descubre la biodiversidad única de la región."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "12s",
+          "ciudad": "Tena",
+          "nombre": "Selva Amazónica"
+        },
+        {
+          "id": "13s",
+          "ciudad": "Napo",
+          "nombre": "Reserva de Vida Silvestre Cuyabeno"
+        }
+      ],
+      "votos": "8"
+    },
+    {
+      "id": "10",
+      "categoria": "bosque",
+      "nombre": "Ruta de las Maravillas Amazónicas",
+      "resenias": [
+        {
+          "id": "10a",
+          "calificacion": 5,
+          "resenia": "Explora la exuberante selva amazónica en la Ruta de las Maravillas Amazónicas. Descubre la magia de la biodiversidad de Ecuador."
+        },
+        {
+          "id": "11a",
+          "calificacion": 4,
+          "resenia": "Observa aves coloridas y fauna silvestre en su hábitat natural. Una experiencia única que te conectará con la naturaleza."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "14s",
+          "ciudad": "Tena",
+          "nombre": "Selva Amazónica"
+        },
+        {
+          "id": "15s",
+          "ciudad": "Napo",
+          "nombre": "Reserva de Vida Silvestre Cuyabeno"
+        },
+        {
+          "id": "16s",
+          "ciudad": "Puyo",
+          "nombre": "Parque Nacional Sangay"
+        }
+      ],
+      "votos": "9"
+    },
+    {
+      "id": "13",
+      "categoria": "bosque",
+      "nombre": "Ruta de los Andes",
+      "resenias": [
+        {
+          "id": "12a",
+          "calificacion": 4,
+          "resenia": "Embárcate en un viaje por la majestuosa cordillera de los Andes. Descubre paisajes impresionantes y caminos ancestrales."
+        },
+        {
+          "id": "13a",
+          "calificacion": 4,
+          "resenia": "Observa la flora y fauna únicas de esta región montañosa. Una experiencia que te dejará sin aliento."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "17s",
+          "ciudad": "Riobamba",
+          "nombre": "Volcán Chimborazo"
+        },
+        {
+          "id": "18s",
+          "ciudad": "Cotopaxi",
+          "nombre": "Parque Nacional Cotopaxi"
+        },
+        {
+          "id": "19s",
+          "ciudad": "Baños",
+          "nombre": "Mirador de la Virgen"
+        }
+      ],
+      "votos": "7"
+    },
+    {
+      "id": "14",
+      "categoria": "area",
+      "nombre": "Ruta de la Aventura Extrema",
+      "resenias": [
+        {
+          "id": "14a",
+          "calificacion": 5,
+          "resenia": "¿Buscas emociones fuertes? La Ruta de la Aventura Extrema es para ti. Practica rafting, paracaidismo y más en Baños."
+        },
+        {
+          "id": "15a",
+          "calificacion": 5,
+          "resenia": "Siente la adrenalina mientras te lanzas desde el columpio del fin del mundo. Una experiencia única para los amantes de la aventura."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "20s",
+          "ciudad": "Baños",
+          "nombre": "Columpio del Fin del Mundo"
+        },
+        {
+          "id": "21s",
+          "ciudad": "Baños",
+          "nombre": "Río Pastaza (Rafting)"
+        },
+        {
+          "id": "22s",
+          "ciudad": "Baños",
+          "nombre": "Salto del Pailón"
+        }
+      ],
+      "votos": "9"
+    },
+    {
+      "id": "15",
+      "categoria": "ciudad",
+      "nombre": "Ruta de los Sabores Tropicales",
+      "sitios": [
+        {
+          "id": "23s",
+          "ciudad": "Manta",
+          "nombre": "Mercado Central"
+        },
+        {
+          "id": "24s",
+          "ciudad": "Manta",
+          "nombre": "Playa Murciélago"
+        },
+        {
+          "id": "25s",
+          "ciudad": "Manta",
+          "nombre": "Restaurante El Coral"
+        }
+      ],
+      "votos": "8"
+    },
+    {
+      "id": "17",
+      "categoria": "area",
+      "nombre": "Ruta de los Secretos Subterráneos",
+      "resenias": [
+        {
+          "id": "16a",
+          "calificacion": 4,
+          "resenia": "Explora el misterioso mundo subterráneo en la Ruta de los Secretos Subterráneos en Cuenca. Descubre cuevas y formaciones rocosas impresionantes."
+        },
+        {
+          "id": "17a",
+          "calificacion": 4,
+          "resenia": "Adéntrate en las profundidades de la Tierra y descubre paisajes subterráneos únicos. Una experiencia fascinante para los amantes de la espeleología."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "26s",
+          "ciudad": "Cuenca",
+          "nombre": "Cueva de los Tayos"
+        },
+        {
+          "id": "27s",
+          "ciudad": "Cuenca",
+          "nombre": "Cueva de Chobshi"
+        },
+        {
+          "id": "28s",
+          "ciudad": "Cuenca",
+          "nombre": "Cueva de los Encantados"
+        }
+      ],
+      "votos": "6"
+    },
+    {
+      "id": "18",
+      "categoria": "ciudad",
+      "nombre": "Ruta de la Cultura Indígena",
+      "resenias": [
+        {
+          "id": "18a",
+          "calificacion": 4,
+          "resenia": "Conoce la rica cultura indígena de Ecuador en la Ruta de la Cultura Indígena en Otavalo. Explora mercados tradicionales y comunidades autóctonas."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "29s",
+          "ciudad": "Otavalo",
+          "nombre": "Mercado de Otavalo"
+        },
+        {
+          "id": "30s",
+          "ciudad": "Otavalo",
+          "nombre": "Comunidad Indígena de Peguche"
+        },
+        {
+          "id": "31s",
+          "ciudad": "Otavalo",
+          "nombre": "Museo del Poncho"
+        }
+      ],
+      "votos": "8"
+    },
+    {
+      "id": "-NcGTbclTwVG3EfN6hzP",
+      "categoria": "area",
+      "nombre": "Ruta de la Aventura Submarina",
+      "resenias": [
+        {
+          "id": "19a",
+          "calificacion": 5,
+          "resenia": "Sumérgete en las aguas cristalinas de la costa ecuatoriana en la Ruta de la Aventura Submarina. Explora arrecifes de coral y vida marina sorprendente."
+        },
+        {
+          "id": "20a",
+          "calificacion": 5,
+          "resenia": "Realiza buceo y snorkel en sitios impresionantes como la Isla de la Plata y el Parque Nacional Machalilla. Una experiencia submarina inolvidable."
+        }
+      ],
+      "sitios": [
+        {
+          "id": "32s",
+          "ciudad": "Machalilla",
+          "nombre": "Parque Nacional Machalilla"
+        },
+        {
+          "id": "33s",
+          "ciudad": "Isla de la Plata",
+          "nombre": "Reserva Marina"
+        },
+        {
+          "id": "34s",
+          "ciudad": "Puerto López",
+          "nombre": "Playa Los Frailes"
+        }
+      ],
+      "votos": "9"
+    }
+  ]
+}
