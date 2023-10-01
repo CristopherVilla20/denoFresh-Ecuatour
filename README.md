@@ -7,7 +7,7 @@ Started" guide here: https://fresh.deno.dev/docs/getting-started
 
 Make sure to install Deno: https://deno.land/manual/getting_started/installation
 
-Then start the project:
+Then start the  project:
 
 ```
 deno task start
